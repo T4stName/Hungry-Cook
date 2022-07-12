@@ -1,0 +1,174 @@
+
+pr_01.png
+size: 1954,1497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+products_01/apple
+  rotate: false
+  xy: 2, 2
+  size: 417, 485
+  orig: 417, 485
+  offset: 0, 0
+  index: -1
+products_01/avocado
+  rotate: true
+  xy: 516, 740
+  size: 349, 495
+  orig: 349, 495
+  offset: 0, 0
+  index: -1
+products_01/bol_perec
+  rotate: false
+  xy: 825, 32
+  size: 365, 416
+  orig: 365, 416
+  offset: 0, 0
+  index: -1
+products_01/bread
+  rotate: false
+  xy: 2, 983
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+products_01/broccoli
+  rotate: false
+  xy: 2, 489
+  size: 483, 492
+  orig: 483, 492
+  offset: 0, 0
+  index: -1
+products_01/carrot
+  rotate: true
+  xy: 1013, 510
+  size: 279, 451
+  orig: 279, 451
+  offset: 0, 0
+  index: -1
+products_01/chees
+  rotate: false
+  xy: 421, 34
+  size: 402, 414
+  orig: 402, 414
+  offset: 0, 0
+  index: -1
+products_01/egg
+  rotate: true
+  xy: 1013, 791
+  size: 346, 466
+  orig: 346, 466
+  offset: 0, 0
+  index: -1
+products_01/eye
+  rotate: false
+  xy: 1829, 192
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+products_01/hand
+  rotate: true
+  xy: 1524, 16
+  size: 141, 207
+  orig: 141, 207
+  offset: 0, 0
+  index: -1
+products_01/leg
+  rotate: true
+  xy: 1733, 13
+  size: 144, 191
+  orig: 144, 191
+  offset: 0, 0
+  index: -1
+products_01/lemon
+  rotate: false
+  xy: 1192, 73
+  size: 330, 435
+  orig: 330, 435
+  offset: 0, 0
+  index: -1
+products_01/mourh_01
+  rotate: true
+  xy: 1829, 403
+  size: 146, 90
+  orig: 146, 90
+  offset: 0, 0
+  index: -1
+products_01/mouth_02
+  rotate: true
+  xy: 956, 578
+  size: 160, 36
+  orig: 160, 36
+  offset: 0, 0
+  index: -1
+products_01/olive
+  rotate: true
+  xy: 1508, 935
+  size: 222, 413
+  orig: 222, 413
+  offset: 0, 0
+  index: -1
+products_01/onion
+  rotate: true
+  xy: 1002, 1139
+  size: 356, 504
+  orig: 356, 504
+  offset: 0, 0
+  index: -1
+products_01/pikle
+  rotate: true
+  xy: 487, 450
+  size: 288, 467
+  orig: 288, 467
+  offset: 0, 0
+  index: -1
+products_01/potato
+  rotate: true
+  xy: 1508, 1159
+  size: 336, 444
+  orig: 336, 444
+  offset: 0, 0
+  index: -1
+products_01/radish
+  rotate: false
+  xy: 516, 1091
+  size: 484, 404
+  orig: 484, 404
+  offset: 0, 0
+  index: -1
+products_01/strawberry
+  rotate: false
+  xy: 1524, 159
+  size: 303, 390
+  orig: 303, 390
+  offset: 0, 0
+  index: -1
+products_01/tomato
+  rotate: true
+  xy: 1481, 551
+  size: 382, 400
+  orig: 382, 400
+  offset: 0, 0
+  index: -1
+products_01_02/eye_recolor
+  rotate: true
+  xy: 1883, 868
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+products_01_02/mourh_01_recolor
+  rotate: true
+  xy: 1829, 255
+  size: 146, 90
+  orig: 146, 90
+  offset: 0, 0
+  index: -1
+products_01_02/mouth_02_recolor
+  rotate: false
+  xy: 1192, 35
+  size: 160, 36
+  orig: 160, 36
+  offset: 0, 0
+  index: -1

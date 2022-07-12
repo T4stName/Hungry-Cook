@@ -1,0 +1,27 @@
+
+cake.png
+size: 894,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cake/cake
+  rotate: false
+  xy: 2, 217
+  size: 666, 787
+  orig: 666, 787
+  offset: 0, 0
+  index: -1
+cake/face_kl
+  rotate: false
+  xy: 2, 123
+  size: 125, 92
+  orig: 125, 92
+  offset: 0, 0
+  index: -1
+plate
+  rotate: true
+  xy: 670, 2
+  size: 1002, 222
+  orig: 1002, 222
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+cook.png
+size: 2028,1318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pig/cap
+  rotate: true
+  xy: 1021, 206
+  size: 349, 433
+  orig: 349, 433
+  offset: 0, 0
+  index: -1
+pig/ear_l
+  rotate: true
+  xy: 1719, 411
+  size: 292, 307
+  orig: 292, 307
+  offset: 0, 0
+  index: -1
+pig/ear_r
+  rotate: false
+  xy: 1456, 198
+  size: 227, 357
+  orig: 227, 357
+  offset: 0, 0
+  index: -1
+pig/eye_ball_l
+  rotate: true
+  xy: 1685, 525
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+pig/eye_ball_r
+  rotate: false
+  xy: 1428, 2
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+pig/eye_l_01
+  rotate: false
+  xy: 1909, 294
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+pig/eye_l_02
+  rotate: true
+  xy: 1926, 160
+  size: 132, 99
+  orig: 132, 99
+  offset: 0, 0
+  index: -1
+pig/eye_l_03
+  rotate: true
+  xy: 1926, 26
+  size: 132, 85
+  orig: 132, 85
+  offset: 0, 0
+  index: -1
+pig/eye_l_04
+  rotate: false
+  xy: 848, 530
+  size: 120, 25
+  orig: 120, 25
+  offset: 0, 0
+  index: -1
+pig/eye_r_01
+  rotate: true
+  xy: 1685, 203
+  size: 206, 222
+  orig: 206, 222
+  offset: 0, 0
+  index: -1
+pig/eye_r_02
+  rotate: false
+  xy: 1218, 4
+  size: 208, 200
+  orig: 208, 200
+  offset: 0, 0
+  index: -1
+pig/eye_r_03
+  rotate: false
+  xy: 1687, 72
+  size: 237, 129
+  orig: 237, 129
+  offset: 0, 0
+  index: -1
+pig/eye_r_04
+  rotate: true
+  xy: 827, 13
+  size: 252, 171
+  orig: 252, 171
+  offset: 0, 0
+  index: -1
+pig/eye_r_05
+  rotate: false
+  xy: 1687, 24
+  size: 220, 46
+  orig: 220, 46
+  offset: 0, 0
+  index: -1
+pig/face
+  rotate: false
+  xy: 2, 502
+  size: 844, 814
+  orig: 844, 814
+  offset: 0, 0
+  index: -1
+pig/mouth
+  rotate: false
+  xy: 1428, 47
+  size: 257, 149
+  orig: 257, 149
+  offset: 0, 0
+  index: -1
+pig/nose
+  rotate: false
+  xy: 1000, 7
+  size: 216, 197
+  orig: 216, 197
+  offset: 0, 0
+  index: -1
+pig_body/body
+  rotate: false
+  xy: 848, 557
+  size: 869, 759
+  orig: 869, 759
+  offset: 0, 0
+  index: -1
+pig_body/hand
+  rotate: false
+  xy: 1719, 705
+  size: 296, 611
+  orig: 296, 611
+  offset: 0, 0
+  index: -1
+pig_body/harpoon
+  rotate: true
+  xy: 2, 267
+  size: 233, 1017
+  orig: 233, 1017
+  offset: 0, 0
+  index: -1
+pig_body/shoulder_blade
+  rotate: true
+  xy: 2, 35
+  size: 230, 823
+  orig: 230, 823
+  offset: 0, 0
+  index: -1

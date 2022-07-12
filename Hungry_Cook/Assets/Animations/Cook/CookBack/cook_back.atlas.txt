@@ -1,0 +1,41 @@
+
+cook_back.png
+size: 589,1073
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pig_back/body
+  rotate: false
+  xy: 2, 204
+  size: 548, 372
+  orig: 548, 372
+  offset: 0, 0
+  index: -1
+pig_back/cap
+  rotate: true
+  xy: 2, 2
+  size: 200, 259
+  orig: 200, 259
+  offset: 0, 0
+  index: -1
+pig_back/ear_l
+  rotate: true
+  xy: 263, 13
+  size: 189, 180
+  orig: 189, 180
+  offset: 0, 0
+  index: -1
+pig_back/ear_r
+  rotate: false
+  xy: 445, 2
+  size: 142, 200
+  orig: 142, 200
+  offset: 0, 0
+  index: -1
+pig_back/head
+  rotate: false
+  xy: 2, 578
+  size: 548, 493
+  orig: 548, 493
+  offset: 0, 0
+  index: -1
